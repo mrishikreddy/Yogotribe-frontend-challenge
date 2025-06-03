@@ -10,9 +10,7 @@ A simple React-based web application that fetches and displays a random cat fact
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Features
 - **Single Button Interaction**: Click a button to fetch a random cat fact.
@@ -85,25 +83,3 @@ This project uses the [Cat Facts API](https://catfact.ninja/fact) to fetch rando
   }
   ```
 - The app extracts the `fact` field and displays it on the page.
-
-## Contributing
-Contributions are welcome! If you'd like to improve this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes and commit them (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a Pull Request with a description of your changes.
-
-Please ensure your code follows the existing style and includes appropriate comments.
-
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you see fit.
-
-## Acknowledgements
-- Thanks to [Cat Facts API](https://catfact.ninja/) for providing a fun and free API to work with.
-- Inspired by frontend coding challenges to practice React and API integration.
-- Built with love for cats and clean code! 🐾
-
----
-
-Happy coding, and enjoy your random cat facts! 😺
